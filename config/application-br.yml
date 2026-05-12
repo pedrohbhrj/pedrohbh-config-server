@@ -13,6 +13,6 @@ management:
     health:
       show-details: always
 greeting-service:
-  greeting: "Ol�"
+  greeting: "Ola"
   default-value: "Mundo"
 
