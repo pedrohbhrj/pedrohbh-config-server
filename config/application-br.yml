@@ -3,6 +3,9 @@ server:
 spring:
   application:
     name: greeting-service
+  cloud:
+    config:
+      profile: br
 management:
   endpoints:
     web:
